@@ -19,7 +19,7 @@ npm install
 ```
 ## Usage
 
-## Select the project directory and run the script using the following command:
+Select the project directory and run the script using the following command:
 
 ```Bash
 node index.js
