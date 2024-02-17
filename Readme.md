@@ -9,7 +9,7 @@ Installation
 ## Clone this repository:
 
 ```Bash
-git clone https://github.com/mabbasraza/csvtojson.git
+git clone [https://github.com/mabbasraza/csvtojson.git](https://github.com/MAbbasRaza/csvToJson.git)
 ```
 
 ## Install dependencies:
