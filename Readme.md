@@ -14,12 +14,14 @@ git clone https://github.com/MAbbasRaza/csvToJson.git
 
 ## Install dependencies:
 
+Select the project directory and install dependencies using the following command:
+
 ```Bash
 npm install
 ```
 ## Usage
 
-Select the project directory and run the script using the following command:
+Run the script using the following command:
 
 ```Bash
 node index.js
